@@ -1,3 +1,4 @@
+// [Commit 23/70] REFACTOR: Improve error handling in controllers
 // [Commit 3/70] TEST: Add unit tests for auth service
 // [Commit 68/70] STYLE: Improve code readability
 // [Commit 60/70] PERF: Reduce API response time
