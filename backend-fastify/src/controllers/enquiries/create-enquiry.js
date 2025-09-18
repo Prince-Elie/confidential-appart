@@ -1,3 +1,4 @@
+// [Commit 47/70] DOCS: Add environment variables documentation
 // [Commit 45/70] STYLE: Format code with prettier
 // [Commit 24/70] PERF: Reduce API response time
 // [Commit 7/70] FEATURE: Implement pagination for enquiries
