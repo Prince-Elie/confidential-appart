@@ -1,16 +1,3 @@
-// [Commit 68/70] STYLE: Format code with prettier
-// [Commit 64/70] PERF: Add database indexing
-// [Commit 60/70] DOCS: Add environment variables documentation
-// [Commit 53/70] STYLE: Standardize naming conventions
-// [Commit 48/70] PERF: Improve query performance
-// [Commit 43/70] STYLE: Standardize naming conventions
-// [Commit 39/70] PERF: Implement lazy loading
-// [Commit 36/70] TEST: Add unit tests for auth service
-// [Commit 35/70] CI: Update CI/CD pipeline
-// [Commit 15/70] FEATURE: Add caching for property listings
-// [Commit 12/70] FEATURE: Enhance notification system
-// [Commit 9/70] STYLE: Standardize naming conventions
-// [Commit 8/70] STYLE: Standardize naming conventions
 # Confidential Appart
 
 Plateforme intelligente de gestion immobilière — achetez, vendez et gérez vos biens en toute confiance.
